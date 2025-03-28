@@ -41,6 +41,10 @@ index.html - Estrutura da interface do conversor.
 script.js - Lógica para chamada da API e conversão das moedas.
 
 style.css - Estilização do conversor.
+Contribuidores
+
+@Carlos-Rochaa
+@IchinoSanji
 
 Contribuição
 
